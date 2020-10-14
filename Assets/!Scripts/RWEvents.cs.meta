@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 03e77c42968c61945aad0dc6b169fec8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outerSat: {instanceID: 0}
+  - interiorSat: {instanceID: 0}
+  - RW: {fileID: -927199367670048503, guid: f083fb67f22703e4eaf3ab4c3500ebad, type: 3}
+  - nadir: {instanceID: 0}
+  - RWButton: {instanceID: 0}
+  - CSVui: {instanceID: 0}
+  - fileTxt: {instanceID: 0}
+  - CSVButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
